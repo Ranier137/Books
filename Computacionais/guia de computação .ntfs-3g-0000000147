@@ -1,0 +1,62 @@
+
+Computador eletrônico-digital; 
+
+Representação de Sistemas numéricos e erro; 
+
+Interpolação Polinomial; 
+
+Solução de equações lineares (escalar); x 
+
+Matrizes e Sistemas de equações lineares; x 
+
+Diferenciação e Integração numérica; x
+
+Solução numérica de equações diferenciais; x 
+
+Probabilidade; Variáveis Aleatórias; Série de Fourier; 
+
+Transformada de Fourier;
+
+Transformada rápida de Fourier; 
+
+Processamento e análise espectral digital de sinais
+
+Álgebra não linear e otimização; 
+
+Aproximações por polinômios, ajuste de dados e mínimos quadrados; 
+
+Problemas de valores de contorno; 
+
+Introdução a métodos numéricos em equações diferencias parciais; 
+
+Cadeias de Markov a Tempo Discreto; 
+
+Processos de Poisson; 
+
+Cadeias de Markov a Tempo Contínuo; 
+
+Processamento Digital de Sinais; 
+
+Série e Transformada Discreta de Fourier; 
+
+FFT; 
+
+Filtragem digital de sinais; 
+
+Noções de DSPs.
+
+
+Resolução de equações diferenciais parciais pelos métodos de diferenças finitas: 
+equação de convecção, 
+equação de convecção-difusão, 
+equação da onda. 
+
+Serão abordados consistência, ordem e convergência das aproximações de
+diferenças finitas, 
+método ADI, 
+métodos de Euler explícito e implícito, 
+Crank-Nicholson, 
+métodos tipo Lax-Wendroff,
+Richarson, 
+MacCormack 
+e o método das características
